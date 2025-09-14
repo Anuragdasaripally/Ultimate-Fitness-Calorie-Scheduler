@@ -19,9 +19,8 @@ An Excel-based fitness dashboard that helps you calculate daily calorie & macron
 ---
 
 ## 📂 Files Included
-- `Ultimate_Fitness_Calorie_Scheduler.xlsx` → Main Excel tracker  
-- `Fitness_Scheduler_User_Guide.pdf` → 1-page quick-start guide  
-- `Fitness_Scheduler_Banner.jpg` → Cover/banner image (optional)  
+- `Ultimate_Fitness_Calorie_Scheduler.xlsx`  
+- `Fitness_Scheduler_User_Guide.pdf`   
 
 ---
 
@@ -45,10 +44,6 @@ An Excel-based fitness dashboard that helps you calculate daily calorie & macron
 Check out the notebook walkthrough:  
 👉 [Ultimate Fitness Calorie Schedule on Kaggle](https://www.kaggle.com/code/anuragreddydasari/ultimate-fitness-calorie-schedule)
 
----
-
-## 📸 Preview
-![Fitness Scheduler Banner](Fitness_Scheduler_Banner.jpg)
 
 ---
 
